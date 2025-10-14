@@ -10,3 +10,4 @@
 <img src="captures/captures4.png">
 <h3 style="font-weight: normal; font-size: 16px;">Creation de l'inmplementation d'IDAO</h3>
 <img src="captures/captures5.png">
+<h3 style="Calibri: normal; font-size: 20px;">NB: pour Metier c'est la meme chose que Idao</h3>
