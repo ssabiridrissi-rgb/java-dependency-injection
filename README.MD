@@ -6,3 +6,7 @@
 <img src="captures/captures2.png">
 <h3 style="font-weight: normal; font-size: 16px;">injecte le DAO dans le Métier pour ensuite calculer un résultat.:</h3>
 <img src="captures/captures3.png">
+<h3 style="font-weight: normal; font-size: 16px;">Creation de l'interface Idao</h3>
+<img src="captures/captures4.png">
+<h3 style="font-weight: normal; font-size: 16px;">Creation de l'inmplementation d'IDAO</h3>
+<img src="captures/captures5.png">
